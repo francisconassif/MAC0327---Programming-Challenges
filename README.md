@@ -3,7 +3,7 @@ Repository for the USP course 'MAC0327 - Programming Challenges', taken during t
 
 This course aimed to study the foundational concepts necessary for programming competitions.
 
-Each week featured a list of exercises, generally containing 5 or 6 problems.
+Each week featured a list of exercises, typically containing 5 or 6 problems.
 
 The topics covered were as follows:
 
